@@ -1,4 +1,4 @@
-package br.com.github.renato28.springsecurityjwt.service;
+package br.com.github.renato28.springsecurityjwt.security;
 
 import org.springframework.security.core.Authentication;
 import org.springframework.stereotype.Service;
